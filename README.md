@@ -36,9 +36,6 @@ A fun and interactive **Rock Paper Scissors** game built with **HTML, CSS, and J
    - **Paper beats Rock** 📄
 4. Play again and challenge yourself!
 
-## 📸 Screenshots
-![Gameplay Screenshot](https://vikas4das.github.io/Rock_paper_scissors/your-screenshot.jpg)
-
 ## 🤝 Contributing
 Contributions are welcome! Feel free to **fork** the repo and submit pull requests.
 
