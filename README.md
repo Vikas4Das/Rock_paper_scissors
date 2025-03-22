@@ -16,17 +16,6 @@ A fun and interactive **Rock Paper Scissors** game built with **HTML, CSS, and J
 - **CSS3**
 - **JavaScript (Vanilla JS)**
 
-## 📥 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Vikas4Das/Rock_paper_scissors.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd Rock_paper_scissors
-   ```
-3. Open `index.html` in your browser.
-
 ## 💡 How to Play
 1. Choose **Rock, Paper, or Scissors**.
 2. The computer randomly picks an option.
